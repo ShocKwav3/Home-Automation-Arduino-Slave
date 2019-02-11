@@ -2,6 +2,8 @@
 
 Arduino code, acts as a slave. Only responsible for acquire data from the real world and pass it to the master device.
 
+[Project issue tracker board](https://trello.com/b/acWDFLf5/home-automation-and-spying-on-my-plant)
+
 # Running (Through Linux terminal, Raspbian in my case):
 
 Compile the sketch with [`arduino-cli`](https://github.com/arduino/arduino-cli):
